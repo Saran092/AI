@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
+.Webcam{
+    background-color: blue;
+    border: ;
+}
+video, canvas {
+    margin-top: 15px;
+    border: 1px solid black;
+}
+#label-container {
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#webcam-container, #image-upload-container {
+    margin-top: 15px;
+}
